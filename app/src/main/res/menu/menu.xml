@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/first_fragment"
+        android:icon="@drawable/sobre"
+        android:title="Mensaje" />
+    <item
+        android:id="@+id/second_fragment"
+        android:icon="@drawable/catalogoa"
+        android:title="Inicio" />
+    <item
+        android:id="@+id/third_fragment"
+        android:icon="@drawable/usuario"
+        android:title="Cuenta" />
+</menu>
